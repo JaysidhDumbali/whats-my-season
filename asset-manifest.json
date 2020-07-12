@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whats-my-season/static/css/main.c0bd5fcb.chunk.css",
+    "main.js": "/whats-my-season/static/js/main.e67f1507.chunk.js",
+    "main.js.map": "/whats-my-season/static/js/main.e67f1507.chunk.js.map",
+    "runtime-main.js": "/whats-my-season/static/js/runtime-main.b418449b.js",
+    "runtime-main.js.map": "/whats-my-season/static/js/runtime-main.b418449b.js.map",
+    "static/js/2.7e9d8717.chunk.js": "/whats-my-season/static/js/2.7e9d8717.chunk.js",
+    "static/js/2.7e9d8717.chunk.js.map": "/whats-my-season/static/js/2.7e9d8717.chunk.js.map",
+    "index.html": "/whats-my-season/index.html",
+    "precache-manifest.4347e5c66f8adbd5921fa31db72dd178.js": "/whats-my-season/precache-manifest.4347e5c66f8adbd5921fa31db72dd178.js",
+    "service-worker.js": "/whats-my-season/service-worker.js",
+    "static/css/main.c0bd5fcb.chunk.css.map": "/whats-my-season/static/css/main.c0bd5fcb.chunk.css.map",
+    "static/js/2.7e9d8717.chunk.js.LICENSE.txt": "/whats-my-season/static/js/2.7e9d8717.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b418449b.js",
+    "static/js/2.7e9d8717.chunk.js",
+    "static/css/main.c0bd5fcb.chunk.css",
+    "static/js/main.e67f1507.chunk.js"
+  ]
+}
